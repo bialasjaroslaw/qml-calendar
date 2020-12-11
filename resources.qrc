@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>images/eventindicator.png</file>
+        <file>images/leftanglearrow.png</file>
+        <file>images/rightanglearrow.png</file>
+    </qresource>
+</RCC>
